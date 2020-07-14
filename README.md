@@ -13,7 +13,6 @@
 <a href='https://www.linkedin.com/in/sidsaif/'> Linkedin </a>
 
 ## Motivation for this tutorial?
-***
 
 "I just need small advice...how to get a first data science job?"
 
@@ -30,6 +29,7 @@ When someone asks me how to get into data science, I ask them "which part?" It's
 Although there is not a single right path or a single course that will teach you everything about data science, i'll try my best to create and share a path that i followed in my 2 years(as of now) of experience. And if any course promises to teach you data science in some days or a week, do not expect too much from it instead of getting introduced to the terms in these courses).
 
 # Day 1 - What is Data Science? 
+***
 
 We will first get introduced to:
 <ul>
