@@ -44,3 +44,16 @@ I believe we have got a good amount of idea about what data science is and what 
 Moving forward in the next 10 days, we will try to cover 2 core parts of data science i.e. firstly, we will learn statistics from the very beginning. Simultaneously, we will also be learning a programming language preferably Python (you can use the language you are comfortable in) and implement the learnings in python from scratch (without using inbuild libraries).
 
 
+# Day 2 - Statistics for Data Science
+
+<ul>
+<li> Types of Data </li>
+<li> Research in Data Science </li>
+<li> Descriptive Statistics </li> 
+<ul>
+  <li> Central Tendency of Data </li>
+  <li> Measure of Spread </li>
+  <li> Skewness </li> </ul>
+</ul>
+
+***
