@@ -37,12 +37,12 @@ We will first get introduced to:
 <li> Data Science Lifecyle </li>
 <li> Application of Data Science </li> </ul>
 
-# Plan of Attack 
+## Plan of Attack 
 
 I believe we have got a good amount of idea about what data science is and what is expected from a data scientist. 
 
 Moving forward in the next 10 days, we will try to cover 2 core parts of data science i.e. firstly, we will learn statistics from the very beginning. Simultaneously, we will also be learning a programming language preferably Python (you can use the language you are comfortable in) and implement the learnings in python from scratch (without using inbuild libraries).
-
+***
 
 # Day 2 - Statistics for Data Science
 
@@ -55,5 +55,23 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
   <li> Measure of Spread </li>
   <li> Skewness </li> </ul>
 </ul>
-
 ***
+
+# Day 3 - Statistics for Data Science
+
+<ul>
+<li> Introduction to Inferential Statistics </li>
+<li> What is Probability? </li>
+<li> Distribution </li>
+  <ul>
+    <li> Normal Distribution </li>
+    <li> Binomial Distribution </li>
+    <li> Bernoulli's Distribution </li>
+    <li> Uniform Distribution </li>
+    <li> Student's T Distribution </li>
+    <li> Poisson Distribution </li>
+    <li> Exponential Distribution </li>
+   </ul>
+ </ul>
+***
+    
