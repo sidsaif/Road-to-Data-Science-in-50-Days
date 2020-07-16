@@ -55,6 +55,7 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
   <li> Measure of Spread </li>
   <li> Skewness </li> </ul>
 </ul>
+
 ***
 
 # Day 3 - Statistics for Data Science
@@ -73,5 +74,6 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
     <li> Exponential Distribution </li>
    </ul>
  </ul>
+ 
 ***
     
