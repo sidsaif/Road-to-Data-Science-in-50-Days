@@ -28,7 +28,7 @@ When someone asks me how to get into data science, I ask them "which part?" It's
 
 Although there is not a single right path or a single course that will teach you everything about data science, i'll try my best to create and share a path that i followed in my 2 years(as of now) of experience. And if any course promises to teach you data science in some days or a week, do not expect too much from it instead of getting introduced to the terms in these courses).
 
-# Day 1 - What is Data Science? 
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%201">Day 1 - What is Data Science? </a>
 ***
 
 We will first get introduced to:
@@ -44,7 +44,7 @@ I believe we have got a good amount of idea about what data science is and what 
 Moving forward in the next 10 days, we will try to cover 2 core parts of data science i.e. firstly, we will learn statistics from the very beginning. Simultaneously, we will also be learning a programming language preferably Python (you can use the language you are comfortable in) and implement the learnings in python from scratch (without using inbuild libraries).
 ***
 
-# Day 2 - Statistics for Data Science
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%202">Day 2 - Statistics for Data Science</a>
 
 <ul>
 <li> Types of Data </li>
@@ -58,7 +58,7 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
 
 ***
 
-# Day 3 - Statistics for Data Science
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%203">Day 3 - Statistics for Data Science</a>
 
 <ul>
 <li> Introduction to Inferential Statistics </li>
@@ -77,3 +77,26 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
  
 ***
     
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%204">Day 4 - Statistics for Data Science</a>
+
+<ul>
+<li> Estimation </li>
+  <ul>
+    <li> Confidence Interval </li>
+    <li> Confidence Level </li>
+    <li> Margin of Error </li></ul>
+  
+<li> Hypothesis Testing </li>
+<li> Different types of t-tests </li>
+  <ul>
+    <li> 1-sample T-test </li>
+    <li> Paired t-test </li>
+    <li> 2-sample t-test </li></ul>
+
+<li> ANOVA </li>
+<li> Chi-square Goodness of Fit Test </li>
+<li> Correlation </li>
+<ul>
+<li> Correlation vs Covariance </li> </ul>
+ </ul>
+***
