@@ -100,3 +100,20 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
 <li> Correlation vs Covariance </li> </ul>
  </ul>
 ***
+
+
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%205">Day 5 - Statistics for Data Science</a>
+
+<ul>
+<li> Linear Algebra </li>
+  <ul>
+    <li> Scalar </li>
+    <li> Vectors </li>
+    <li> Matrix </li>
+    <li> Types of Matrix </li>
+    <li> Tensor </li>
+  </ul>
+<li> Eigen Values </li>
+<li> Eigen Vectors </li>
+<li> Bayesian Statistics </li>
+</ul>
