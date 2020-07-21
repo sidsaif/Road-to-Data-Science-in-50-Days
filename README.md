@@ -117,3 +117,5 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
 <li> Eigen Vectors </li>
 <li> Bayesian Statistics </li>
 </ul>
+
+***
