@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="244" height="89.4" version="1.1" style="font-family:'Comic Sans MS'; font-size:28px; stroke-width:1pt;">
+<defs>
+	<marker id="aa1" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+	<marker id="aa2" style="overflow:visible;" orient="auto">
+		<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff9900; stroke:#ff9900;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+	</marker>
+</defs>
+<g transform="translate(-1813.05,-1528.35)">
+	<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:3.01;" d="m 1813.7,1610.9 141.6,-68.1"/>
+	<path style="marker-end:url(#aa1); fill:none; stroke:black; stroke-width:3.01;" d="m 1959,1540.8 92,31.9"/>
+	<path style="marker-end:url(#aa2); fill:#ff9900; stroke:#ff9900; stroke-width:3;" d="m 1813.8,1611.5 237.5,-35.4"/>
+	<text x="1873.6" y="1568.4" style="font-weight:bold; color:black; overflow:visible; fill:black; stroke-width:1px;">a</text>
+	<text x="2000.2" y="1549.9" style="font-weight:bold; color:black; overflow:visible; fill:black; stroke-width:1px;">b</text>
+	<text x="1943.2" y="1616.9" style="font-weight:bold; color:black; overflow:visible; fill:#ff9900; stroke-width:1px;">a+b</text>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Copyright 2017 mathsisfun.com -->
+<svg xmlns="http://www.w3.org/2000/svg" width="267.1" height="137.3" version="1.1">
+<defs>
+<marker id="id1" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="stroke:black; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+<marker id="id2" style="overflow:visible;" orient="auto">
+<path transform="scale(0.6)" style="font-size:12px; fill:#ff9900; stroke:#ff9900; stroke-width:0.63; stroke-linejoin:round;" d="M 8.7,4 -2.2,0 8.7,-4 c -1.7,2.4 -1.7,5.6 0,8 z"/>
+</marker>
+<marker id="id3" style="overflow:visible;" orient="auto">
+<path transform="matrix(-0.4,0,0,-0.4,-4,0)" style="fill:#ff9900; stroke:#ff9900; stroke-width:1pt;" d="M 0,0 5,-5 -12.5,0 5,5 Z"/>
+</marker>
+</defs>
+<g transform="translate(-1572.74,-1200.51)">
+<path style="marker-end:url(#id1); fill:none; stroke:black; stroke-width:3.71;" d="m 1653,1297.2 129.8,-67"/>
+<path style="fill:none; stroke:#d76cff; stroke-width:1; stroke-dasharray:4, 1;" d="m 1575.1,1337.4 264.5,-136.4"/>
+<text x="798.2" y="1903.1" transform="rotate(-27.2112)" style="font-family:'Comic Sans MS'; font-size:25px; font-style:italic; color:black; overflow:visible; fill:#d76cff; stroke-width:1px;">direction</text>
+<path style="fill:#ff9900; stroke:#ff9900; stroke-width:0.5px;" d="m 1656.7,1303.2 12.6,24.5"/>
+<path style="fill:#ff9900; stroke:#ff9900; stroke-width:0.5px;" d="m 1791,1234.1 12.6,24.5"/>
+<path style="marker-start:url(#id2); fill:#ff9900; stroke:#ff9900; stroke-width:1.19;" d="m 1668.7,1323.1 41.2,-20.3"/>
+<text x="1665.2" y="1340" transform="rotate(-1.47978)" style="font-family:'Comic Sans MS'; font-size:25px; color:black; overflow:visible; fill:#ff9900; stroke-width:1px;">magnitude</text>
+<path style="marker-end:url(#id3); fill:#ff9900; stroke:#ff9900; stroke-width:1.19;" d="m 1763.9,1274 36.8,-18"/>
+</g>
+</svg>
