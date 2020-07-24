@@ -120,7 +120,7 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
 
 ***
 
-# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%205">Day 6 - Database for Data Science</a>
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/blob/master/Day%206/Road%20To%20Data%20Science%20in%2050%20Days%20-%20Day%206.ipynb"> Day 6 - Database for Data Science</a>
 
 <ul>
 <li> Introduction to Database </li>
