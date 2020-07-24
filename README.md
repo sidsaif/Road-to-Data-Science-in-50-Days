@@ -119,3 +119,28 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
 </ul>
 
 ***
+
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%205">Day 6 - Database for Data Science</a>
+
+<ul>
+<li> Introduction to Database </li>
+ <li> Types of Databases </li>
+  <ul>
+  <li> Centralised database. </li>
+  <li> Distributed database. </li>
+  <li> Personal database.</li>
+  <li> End-user database. </li>
+  <li> Commercial database. </li>
+  <li> NoSQL database. </li>
+  <li> Operational database. </li>
+  <li> Relational database. </li>
+  <li> Cloud database. </li>
+  <li> Object-oriented database. </li>
+  <li> Graph database. </li>
+  </ul>
+<li> Importance of SQL in Data Science </li>
+<li> What Skills are required for Data Science </li>
+<li> SQL Tutorials </li>
+</ul>
+
+***
