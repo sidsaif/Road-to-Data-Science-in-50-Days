@@ -144,3 +144,17 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
 </ul>
 
 ***
+
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%207"> Day 7 - Database for Data Science</a>
+
+<ul>
+<li> Installing SQL </li>
+ <li> SQL Operations </li>
+  <ul>
+  <li> CREATE Database </li>
+  <li> Table Operations </li>
+  <li> Advanced SQL.</li>
+  </ul>
+<li> Popular Databases </li>
+<li> SQL vs NoSQL </li>
+</ul>
