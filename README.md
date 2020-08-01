@@ -158,3 +158,29 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
 <li> Popular Databases </li>
 <li> SQL vs NoSQL </li>
 </ul>
+
+***
+
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%208"> Day 8 - Database for Data Science</a>
+
+<ul>
+<li> Data Warehousing </li>
+  <ul>
+  <li> Data Warehousing terminologies </li>
+  <li> Delivery Process </li>
+  <li> Concept Hierarchy </li>
+    <li> System Process </li>
+  </ul>
+<li> OLAP </li>
+  <ul>
+  <li> OLAP Operations </li>
+  <li> Types of OLAP </li>
+  </ul>
+<li> Schemas </li>
+  <ul>
+  <li> Star Schema </li>
+  <li> Snowflake Schema </li>
+  </ul>
+  
+  ***
+</ul>
