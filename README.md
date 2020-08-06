@@ -183,4 +183,24 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
   </ul>
   
   ***
-</ul>
+
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%209"> Day 9 - Python for Data Science</a>
+
+<ul>
+<li> Introduction </li>
+<li> Why Python for Data Science? </li>
+<li> Basics </li>
+  <li> Data Structures in Python </li>
+    <ul>
+  <li> List </li>
+  <li> Tuple </li>
+  <li> Dictionaries </li>
+  <li> Sets </li>
+  <li> References </li>
+  </ul>
+  <li> Loops </li>
+  </ul>
+  
+ ***
+ 
+
