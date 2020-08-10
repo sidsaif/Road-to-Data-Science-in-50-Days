@@ -203,7 +203,7 @@ Moving forward in the next 10 days, we will try to cover 2 core parts of data sc
   
  ***
  
-# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%209"> Day 10 - Python for Data Science</a>
+# <a href="https://github.com/sidsaif/Road-to-Data-Science-in-50-Days/tree/master/Day%2010"> Day 10 - Python for Data Science</a>
 
 <ul>
 <li> User Defined Functions </li>
